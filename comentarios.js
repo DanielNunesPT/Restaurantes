@@ -1,3 +1,5 @@
+{
+    "comments":
 [
     {
         "nome_do_restaurante": "Restaurante Mauritânia",
@@ -150,3 +152,4 @@
         ]
     }
 ]
+}
