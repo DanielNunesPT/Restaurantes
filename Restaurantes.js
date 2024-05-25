@@ -1,3 +1,5 @@
+{
+    "restaurants":
 [
     {
         "nome_do_restaurante": "Restaurante Mauritânia",
@@ -180,3 +182,4 @@
         "tipo_de_gastronomia": "Portuguesa"
     }
 ]
+}
